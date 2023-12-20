@@ -1,4 +1,4 @@
-### Summary
+### Description
 Build a class and a driver for use in searching your computer’s secondary storage (hard disk or flash memory) for a specific file from a set of files indicated by a starting path.
 
 ### Introduction and Driver
