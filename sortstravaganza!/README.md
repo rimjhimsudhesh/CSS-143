@@ -8,12 +8,12 @@ lexicographical (a.k.a. “alphabetical” or dictionary order) and by length (i
 For instance, if the words to be sorted are “piano, flute, clarinet”, then their lexicographical ordering is:
 
 
-• clarinet
-• flute
-• piano
+- clarinet
+- flute
+- piano
 
 And their length ordering is:
 
-• flute
-• piano
-• clarinet
+- flute
+- piano
+- clarinet
